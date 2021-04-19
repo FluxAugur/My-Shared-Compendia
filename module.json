@@ -3,7 +3,7 @@
   "title": "My Shared Compendia",   
   "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",   
   "author": "sts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion":"3.2.1",
   "packs": [
